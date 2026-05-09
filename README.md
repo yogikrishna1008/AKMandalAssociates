@@ -1,1 +1,1 @@
-AKMandal_legal
+mandal-legal-v2.html
