@@ -1,1 +1,1 @@
-mandal-legal-v2.html
+https.mandal-legal-v2.html
